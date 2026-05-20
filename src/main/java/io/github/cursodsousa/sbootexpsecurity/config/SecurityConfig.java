@@ -1,4 +1,4 @@
-package welber.projeto.sbootkeycloak.config;
+package io.github.cursodsousa.sbootexpsecurity.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
